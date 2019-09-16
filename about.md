@@ -4,12 +4,12 @@ title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Aqui vou falar um pouco mais. Aguarde em breve.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Aqui também terá mais informações. Aguarde
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rafael.oak@bol.com.br](mailto:rafael.oak@bol.com.br)
