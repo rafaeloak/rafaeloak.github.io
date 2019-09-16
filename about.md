@@ -6,10 +6,10 @@ permalink: /about/
 
 Aqui vou falar um pouco mais. Aguarde em breve.
 
-### More Information
+### Mais informações
 
 Aqui também terá mais informações. Aguarde
 
-### Contact me
+### Contato
 
 [rafael.oak@bol.com.br](mailto:rafael.oak@bol.com.br)
