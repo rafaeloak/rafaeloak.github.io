@@ -7,4 +7,4 @@ title: Hello World!
 
 ![_config.yml]({{ site.baseurl }}/images/1.jpg)
 
-"To muito feliz em aprender algo novo! Vamos ver como vai ficar isso aqui! :) Torce por mim!"
+"To muito feliz em aprender algo novo! Vamos ver como vai ficar isso aqui! :) Torce por mim!""
