@@ -1,5 +1,10 @@
+---
 layout: post
-title: hello world 2
+title: Hello World 2!
+---
 
+Esse é um novo post
 
-Aqui vai mais um post
+![_config.yml]({{ site.baseurl }}/images/1.jpg)
+
+Post 2
